@@ -1,0 +1,10 @@
+vending\NotFullPaidException.class
+vending\VendingMachine.class
+vending\Inventory.class
+vending\Item.class
+vending\NotSufficientChangeException.class
+vending\SoldOutException.class
+vending\VendingMachineImpl.class
+vending\Bucket.class
+vending\Coin.class
+vending\VendingMachineFactory.class
